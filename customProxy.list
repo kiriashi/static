@@ -1,5 +1,6 @@
 DOMAIN,cache.nixos.org
-DOMAIN,nix-community.
+DOMAIN,nix-community.cachix.org
+DOMAIN,chaotic-nyx.cachix.org
 # 内容：GoogleFCM 谷歌推送服务
 # 数量：35条
 DOMAIN,alt1-mtalk.google.com
